@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jani.tavi</sys_created_by>
+        <sys_created_on>2022-09-18 06:38:40</sys_created_on>
+        <sys_id>de9c980d9742111071b0f0f6f053afcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_514322_awi_awi_test.x_514322_awi.awi_test_user</sys_name>
+        <sys_package display_value="AWI" source="x_514322_awi">e00c0c4d9702111071b0f0f6f053afed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWI">e00c0c4d9702111071b0f0f6f053afed</sys_scope>
+        <sys_security_acl display_value="x_514322_awi_awi_test">9e9c980d9742111071b0f0f6f053afca</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_de9c980d9742111071b0f0f6f053afcd</sys_update_name>
+        <sys_updated_by>jani.tavi</sys_updated_by>
+        <sys_updated_on>2022-09-18 06:38:40</sys_updated_on>
+        <sys_user_role display_value="x_514322_awi.awi_test_user" name="x_514322_awi.awi_test_user">9a9c18c99742111071b0f0f6f053afca</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
